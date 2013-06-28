@@ -1,0 +1,5 @@
+6_28 仓库说明
+===
+Proj包含28CustomFrame和UpdateSubViewsTest6_28两个Targets，
+分别为自定义Frame内容和UIView更改子视图或父视图的frame属性以及call sizeTofit方法等通过NSLog验证
+这些相关方法的调用情况
