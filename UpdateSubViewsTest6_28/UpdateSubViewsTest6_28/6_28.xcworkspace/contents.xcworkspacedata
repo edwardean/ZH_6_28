@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../UpdateSubViewsTest6_28.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:28CustomFrame"
+      name = "28CustomFrame">
+      <Group
+         location = "group:28CustomFrame"
+         name = "28CustomFrame">
+         <FileRef
+            location = "group:28CustomFrame-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:28CustomFrame-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:Default-568h@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default@2x.png">
+         </FileRef>
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+            <FileRef
+               location = "group:ZHViewController.xib">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:ZHAppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:ZHAppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:ZHViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ZHViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:28CustomFrame.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ZHCustomFrame.h">
+      </FileRef>
+      <FileRef
+         location = "group:ZHCustomFrame.m">
+      </FileRef>
+   </Group>
+</Workspace>
